@@ -1,0 +1,14 @@
+4
+タブ
+79
+空行
+独立
+docstring
+前後
+後
+内側
+CamelCase
+lower_case_with_underscores
+self
+UTF-8
+ASCII
